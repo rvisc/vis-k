@@ -31,12 +31,114 @@
       }
     },
     "images": {
-      "it": "./assets/screens/HexWreck-it.png",
-      "en": "./assets/screens/HexWreck-en.png",
-      "es": "./assets/screens/HexWreck-es.png",
-      "fr": "./assets/screens/HexWreck-fr.png",
-      "de": "./assets/screens/HexWreck-de.png",
-      "zh": "./assets/screens/HexWreck-zh.png"
+      "it": [
+        {
+          "src": "./assets/screens/4a79bd1e38ee6856c8da64ca33c7471f1b4ceedabd99959383fee41460173170.png",
+          "label": "azione.png"
+        },
+        {
+          "src": "./assets/screens/eead58da3d2400e47a7f9283d29de86ccbdf6965162d318939c96e254b310120.png",
+          "label": "labirinto.png"
+        },
+        {
+          "src": "./assets/screens/68c9aeeca58fff02ba311b4068cdf2dc2cf82f3774c94bab363572507c2f77a6.png",
+          "label": "partita.png"
+        },
+        {
+          "src": "./assets/screens/6578301c15b3ccedc63e524c710764571cabc0faeb0339c5c8993ddae739b545.png",
+          "label": "rete.png"
+        }
+      ],
+      "en": [
+        {
+          "src": "./assets/screens/b2557bdf981bdeb6abb1fd60ffea2eb81020492d52c5ec7921d2643455617e01.png",
+          "label": "azione.png"
+        },
+        {
+          "src": "./assets/screens/da5028b021609aa632fc334073bdc126bc8d544368ed537ae3d0d570ac8939ae.png",
+          "label": "labirinto.png"
+        },
+        {
+          "src": "./assets/screens/cacb6891efec52a157921a61ebd854bf5882c10a7d87c1a5cde1ea2e7e94fe06.png",
+          "label": "partita.png"
+        },
+        {
+          "src": "./assets/screens/bfe205a4eef2ef5c8ef557fd9d2b206f300fcb840ccb0a769c37ce5da22b97a3.png",
+          "label": "rete.png"
+        }
+      ],
+      "es": [
+        {
+          "src": "./assets/screens/16c534d5ea9b0dd8831036deeb5650e7cb16174de0e22f554c036c603a1d2edb.png",
+          "label": "azione.png"
+        },
+        {
+          "src": "./assets/screens/582af808c96b1830d2d655f6aa7327109a6d0400e6c67ce4daa612da9cefc907.png",
+          "label": "labirinto.png"
+        },
+        {
+          "src": "./assets/screens/5719fc9764fd77716b8057ee22b7b84736547ec53f95e5b263cb192c58354a7e.png",
+          "label": "partita.png"
+        },
+        {
+          "src": "./assets/screens/dd1b40d6582583eaf004d35ec5aaa035332cb940190b6efda6cf337628567448.png",
+          "label": "rete.png"
+        }
+      ],
+      "fr": [
+        {
+          "src": "./assets/screens/23d33dd6fb46d180ac51db24eaeef3a324fdf1290b09a58bfd27a20aed062a5e.png",
+          "label": "azione.png"
+        },
+        {
+          "src": "./assets/screens/3c8abade24c365d1877cae3cfa4da47280f9baeda44746b02862ea05c83e6083.png",
+          "label": "labirinto.png"
+        },
+        {
+          "src": "./assets/screens/13db4dcb495271f508fa7e30b80bb4319e4bdeac9228cfdb6fda1a102522f337.png",
+          "label": "partita.png"
+        },
+        {
+          "src": "./assets/screens/990cd4112a08c9da2732519347aec68d68ead10bda462d077559ea0409a3d785.png",
+          "label": "rete.png"
+        }
+      ],
+      "de": [
+        {
+          "src": "./assets/screens/36ad97221c555a7e7b739bd011eea44bee6b8c1c33aa4e85f6fc92364f8c8018.png",
+          "label": "azione.png"
+        },
+        {
+          "src": "./assets/screens/bfe1e7b7cabcb803d5760641e8fee6986b733916985ab3f7f1f6dff2792b8c1c.png",
+          "label": "labirinto.png"
+        },
+        {
+          "src": "./assets/screens/70fc2d1944ce215b23d0d94dc028af56e2c6ab9453e4b246f54142b8b0abff0a.png",
+          "label": "partita.png"
+        },
+        {
+          "src": "./assets/screens/fcd97d8a81d64bc3b304f2eab7d27e4ac4fb4dfcec905794c3429d9505a5284d.png",
+          "label": "rete.png"
+        }
+      ],
+      "zh": [
+        {
+          "src": "./assets/screens/14afd4667c5915c20b32b715c0be1dd7a546eb81c97121cc4c644082a34f8541.png",
+          "label": "azione.png"
+        },
+        {
+          "src": "./assets/screens/ca495c582fb87d7584eadaf02eb8eab3146b65985e52a971c0e6b77a1742140c.png",
+          "label": "labirinto.png"
+        },
+        {
+          "src": "./assets/screens/158c0cf0ce5ee1bb5ba8735309d79964a813c20af5fed4f8d232f71cb49b58dd.png",
+          "label": "partita.png"
+        },
+        {
+          "src": "./assets/screens/d0ee9dc1f18bd0217b1a63b8eb24055e8c6f54e2ec25d378cc7d381ae9d9f3cb.png",
+          "label": "rete.png"
+        }
+      ]
     }
   },
   {
@@ -71,12 +173,118 @@
       }
     },
     "images": {
-      "it": "./assets/screens/EasyJobCall-it.png",
-      "en": "./assets/screens/EasyJobCall-en.png",
-      "es": "./assets/screens/EasyJobCall-es.png",
-      "fr": "./assets/screens/EasyJobCall-fr.png",
-      "de": "./assets/screens/EasyJobCall-de.png",
-      "zh": "./assets/screens/EasyJobCall-zh.png"
+      "it": [
+        {
+          "src": "./assets/screens/1794fbf7dcdb43ac8560c3116e82cd1f7c26b4a1d9024a6c9817438d26fc36dd.png",
+          "label": "1-risposta.png"
+        },
+        {
+          "src": "./assets/screens/1ed52c40fbf46926ad02d20d0cafa6e6586c2c40b8c848eb402f7d6f02632903.png",
+          "label": "2-privacy.png"
+        },
+        {
+          "src": "./assets/screens/179341e55852abb5dce8cba883377939ad5fd046b410dca68bf37979a3988705.png",
+          "label": "3-lingue.png"
+        },
+        {
+          "src": "./assets/screens/d7b897c7e05ba3a68960106e5b5f7b23da75efd0af76fba1500cad5e924d9bf2.png",
+          "label": "4-avvio.png"
+        }
+      ],
+      "en": [
+        {
+          "src": "./assets/screens/e96c859a9fc9cc571c6feaecbc08837722d87f0e036e71db90f341a92f638dad.png",
+          "label": "1-risposta.png"
+        },
+        {
+          "src": "./assets/screens/bb580e8455e0b7cde9e7ce4779392d8cf7005f59c81c14a6c2c25f0b51d7433d.png",
+          "label": "2-privacy.png"
+        },
+        {
+          "src": "./assets/screens/0e35a0769c3812cd69ac7fe60379f4e6c8dc13de9bcbd1b7b10161ba9bda9064.png",
+          "label": "3-lingue.png"
+        },
+        {
+          "src": "./assets/screens/2e82fc9bb889d9a985e39ac87c156a0f9c50600fd46b69a93e5c8231ced9706f.png",
+          "label": "4-avvio.png"
+        },
+        {
+          "src": "./assets/screens/e60d40d1c2ac528edb344f3576c4e4651630e161066b966b8825971b95843731.png",
+          "label": "ICO.png"
+        }
+      ],
+      "es": [
+        {
+          "src": "./assets/screens/7da1c874331c540319d12310061a34eac189da811b0f15c243aba9b77165c216.png",
+          "label": "1-risposta.png"
+        },
+        {
+          "src": "./assets/screens/14cd055da0a4043724bfa434dbe9996d5f24eab4500383122b4959bdd00196bc.png",
+          "label": "2-privacy.png"
+        },
+        {
+          "src": "./assets/screens/004f28d7dcc38fb3850aafc79257ac7885b1514e2d7b25ca65440fb2cc1fa543.png",
+          "label": "3-lingue.png"
+        },
+        {
+          "src": "./assets/screens/7cc44838706c7e1694f12dbb7354a06163d6dd67b00d92fc6ee94c5a582738be.png",
+          "label": "4-avvio.png"
+        }
+      ],
+      "fr": [
+        {
+          "src": "./assets/screens/4c3573887863be8657fe13107f090e9c44e698f88eff2e92ba5b4c8e73c05f9c.png",
+          "label": "1-risposta.png"
+        },
+        {
+          "src": "./assets/screens/4175fe619bdc751beeee86d9624974ade19bec04a75057b346339d1e6b8143ac.png",
+          "label": "2-privacy.png"
+        },
+        {
+          "src": "./assets/screens/1e5a42194c8cde9481537bb4605ee0312e81c7af8b47506053a8d05e4bfde91d.png",
+          "label": "3-lingue.png"
+        },
+        {
+          "src": "./assets/screens/420c1e42679dbba044346046187cec047e53f513a4e3f52c9069e19a9a25ae42.png",
+          "label": "4-avvio.png"
+        }
+      ],
+      "de": [
+        {
+          "src": "./assets/screens/9226896fe85ae118388349fc4015080c293a01943372a609b191170ec16b220a.png",
+          "label": "1-risposta.png"
+        },
+        {
+          "src": "./assets/screens/6379a31ffc9570627abca82ae3687013491995fcfbbab898469ff69f1e41ca1c.png",
+          "label": "2-privacy.png"
+        },
+        {
+          "src": "./assets/screens/763e59bdf18ff26a960a848cb0009ea17a971562c63e06de1515303d3eb92cc4.png",
+          "label": "3-lingue.png"
+        },
+        {
+          "src": "./assets/screens/f6fb0ae6e3caad01c331c3923b29a84f5bb0e8e1875600af704c3e1e97c3771e.png",
+          "label": "4-avvio.png"
+        }
+      ],
+      "zh": [
+        {
+          "src": "./assets/screens/e6c1be3acc6497ac216f9da597a80d067525923714809ad05a2ab22b1a79455b.png",
+          "label": "1-risposta.png"
+        },
+        {
+          "src": "./assets/screens/18266d2bcaac96e608ec3cfd25aed5f64dcb38945484ec62503349ec932d6065.png",
+          "label": "2-privacy.png"
+        },
+        {
+          "src": "./assets/screens/670ee5b2e1212f59b0d1c70a93e0683ded1a73abab77b6e8193314e4cf3fdc55.png",
+          "label": "3-lingue.png"
+        },
+        {
+          "src": "./assets/screens/fdd4d836ea230c1c550c510ecb5bbf71d35e7cc279b7217c72fadcaa747bd1f1.png",
+          "label": "4-avvio.png"
+        }
+      ]
     }
   },
   {
@@ -111,12 +319,210 @@
       }
     },
     "images": {
-      "it": "./assets/screens/SourceMonitor-it.png",
-      "en": "./assets/screens/SourceMonitor-en.png",
-      "es": "./assets/screens/SourceMonitor-es.png",
-      "fr": "./assets/screens/SourceMonitor-fr.png",
-      "de": "./assets/screens/SourceMonitor-de.png",
-      "zh": "./assets/screens/SourceMonitor-zh.png"
+      "it": [
+        {
+          "src": "./assets/screens/b55af10fdcf266c917902855418f0101f6a95a1d7c331194f57c8df08f9d7a70.png",
+          "label": "01-fonti.png"
+        },
+        {
+          "src": "./assets/screens/8c46133c65e05bd16242c71bb0671136da6e62e41c989e59b5c3fca65c7229d4.png",
+          "label": "02-archivio.png"
+        },
+        {
+          "src": "./assets/screens/105bdbc48c738e104fb66c42b79d8c414a8523e012545c729bc8d64cb7f93812.png",
+          "label": "03-pianificazione.png"
+        },
+        {
+          "src": "./assets/screens/2711217f0796995d501ab2bc695664dcda70aa9426bc0aab5c07e1c0e9696e8c.png",
+          "label": "04-avvisi.png"
+        },
+        {
+          "src": "./assets/screens/8755de2c77465a092cdaa8da0a776e1a80d4a9dde6312b09159c38108cdb66fe.png",
+          "label": "05-registro.png"
+        },
+        {
+          "src": "./assets/screens/8d4cab0abb57c1843aaa9e3284f9036a9baad4c443f3263a02c488a661377e73.png",
+          "label": "06-guida.png"
+        },
+        {
+          "src": "./assets/screens/e3e37134593e6cacda89dad0b96733d510c182afcaba83a0896e6d3f3cba690a.png",
+          "label": "07-informazioni.png"
+        },
+        {
+          "src": "./assets/screens/5aeca835e07ad44eebeeab81ecfb53bc7aa154fa84c31422e5afa69733b2d7ba.png",
+          "label": "08-avvio.png"
+        }
+      ],
+      "en": [
+        {
+          "src": "./assets/screens/a1b0f5677f2ec1eb7e536fa7487140f54e728c6b329dfddfb054c488f800e7e0.png",
+          "label": "01-fonti.png"
+        },
+        {
+          "src": "./assets/screens/13f02e73fdbf33b4d924fd9493270da8f5246e71791e8a4682734a0374c1bf72.png",
+          "label": "02-archivio.png"
+        },
+        {
+          "src": "./assets/screens/db178f7d0308147cef4ff3dc2d18e83caf00023e6f94346abac2dce3aeb036ef.png",
+          "label": "03-pianificazione.png"
+        },
+        {
+          "src": "./assets/screens/c0054bb0028b386160be0d37ee1bde83c1a104d3edc84fa7b92e969df5adb40e.png",
+          "label": "04-avvisi.png"
+        },
+        {
+          "src": "./assets/screens/fa6a33914b52b355f3b3d94ea0f0cd1c7f2e6bcfeb68099116f186dc5d93da6f.png",
+          "label": "05-registro.png"
+        },
+        {
+          "src": "./assets/screens/cb2ed6fcdc27ff7141302c1bebd7680bfb363c70be33d693d121dbe2c3cd9b82.png",
+          "label": "06-guida.png"
+        },
+        {
+          "src": "./assets/screens/d91321496957908b7a1eb7d5cb3b4957609f2cad990751b818e46939e9022f53.png",
+          "label": "07-informazioni.png"
+        },
+        {
+          "src": "./assets/screens/c952a7a65b7b24c33a22e5c351117a80145f58b149e0e9f96d45bbb5632cd174.png",
+          "label": "08-avvio.png"
+        }
+      ],
+      "es": [
+        {
+          "src": "./assets/screens/cd27c8908fdaed5fc9803b1d2f205c35e2d5c823a9e5c22d8b4ba8ca742f37ba.png",
+          "label": "01-fonti.png"
+        },
+        {
+          "src": "./assets/screens/31bb4d60f38490f9e6c36d8d5a28f7f76c540acb9a89e24908eb9102587adaa7.png",
+          "label": "02-archivio.png"
+        },
+        {
+          "src": "./assets/screens/dc6fabecd6fbb49f015437d385c07c7365ac895acb3fca1be582bfd2b4dcea15.png",
+          "label": "03-pianificazione.png"
+        },
+        {
+          "src": "./assets/screens/272358a911df7f52592f6630b39d3de244b307d94fe9f6eaf3d1ce259979e615.png",
+          "label": "04-avvisi.png"
+        },
+        {
+          "src": "./assets/screens/d8fb6a5c4133af549bc666a9fd58bc6eaab6ffaf83738e5a59da6e9757aa10be.png",
+          "label": "05-registro.png"
+        },
+        {
+          "src": "./assets/screens/6d4288eb0645f250dbb8ae6f7b2bef4bbccf06d48ab2a98514c6d99f3ee0384d.png",
+          "label": "06-guida.png"
+        },
+        {
+          "src": "./assets/screens/43b8b31939536dc5d3689c53dd860fa22731df90a89a5771ffea2e4c6af24c4f.png",
+          "label": "07-informazioni.png"
+        },
+        {
+          "src": "./assets/screens/d4a42c1a413d850b6d60a6df5fe513345ac3ad8ec290936531f11e2c7bcababa.png",
+          "label": "08-avvio.png"
+        }
+      ],
+      "fr": [
+        {
+          "src": "./assets/screens/56df6bdd30a2c3b1d873c2456c8feef12cf5f0ebfa70a9a7b5bfc81076d2333f.png",
+          "label": "01-fonti.png"
+        },
+        {
+          "src": "./assets/screens/3e2ca60b4bf964579281262ee9147b7ab28661ef2152ea608df894153418a67c.png",
+          "label": "02-archivio.png"
+        },
+        {
+          "src": "./assets/screens/34b0594eac7683d19da64b007a3a8932307c65d85696ce540dbc67cd2ccaf958.png",
+          "label": "03-pianificazione.png"
+        },
+        {
+          "src": "./assets/screens/90744affdaa8f14554b2aacaca33e3fa8fa48f9887bc2fe6ba236ddb9b306922.png",
+          "label": "04-avvisi.png"
+        },
+        {
+          "src": "./assets/screens/712d330a0cd845a2881784deac0a1d71d178c57ca20ee60e20d271a04f1ab2f7.png",
+          "label": "05-registro.png"
+        },
+        {
+          "src": "./assets/screens/25bab4a4953cbd4e706d7dc35c1403e5f93ceefc1b4ed517114e6f835dfb995a.png",
+          "label": "06-guida.png"
+        },
+        {
+          "src": "./assets/screens/6b1c56a2b23052c9a32aecf40fc63c12707511f1a7f978bfaab6451269d431f0.png",
+          "label": "07-informazioni.png"
+        },
+        {
+          "src": "./assets/screens/d18739f67420d375614d8d2c34a121615a4c1c77bdb937e2a06d82da62c6f4f2.png",
+          "label": "08-avvio.png"
+        }
+      ],
+      "de": [
+        {
+          "src": "./assets/screens/57b15726889451649b8c113f6caa76daee6f005b8d6c0578302485867e7df6f9.png",
+          "label": "01-fonti.png"
+        },
+        {
+          "src": "./assets/screens/dc5817dad2b45c5ab48ae21c2765424fcdc8b49e1f743ec2f3f063a56e0bb0c8.png",
+          "label": "02-archivio.png"
+        },
+        {
+          "src": "./assets/screens/996b4e00523120eaa7d6484d2afda6367b9c55d6137cf7be973cfb7b6c4d92c3.png",
+          "label": "03-pianificazione.png"
+        },
+        {
+          "src": "./assets/screens/8060865bb6a61a4f0379ea14329bb1dcfdb2f4da8c7593f343becd7ca9112dd6.png",
+          "label": "04-avvisi.png"
+        },
+        {
+          "src": "./assets/screens/f257413b7f20e75248a4053df8a20d989bf742172099a9207a8d0feddef6ceaa.png",
+          "label": "05-registro.png"
+        },
+        {
+          "src": "./assets/screens/da4add6659772782bffecb0a23176bfc35563aabff1f9d3c74046e74a7beaacb.png",
+          "label": "06-guida.png"
+        },
+        {
+          "src": "./assets/screens/0403725527fc7b1c67ca34380f2f0e55e03abbacf35d30f9ee4bb899b1479b90.png",
+          "label": "07-informazioni.png"
+        },
+        {
+          "src": "./assets/screens/36d19656bb7bb22b9bcf27b3f3bdb3d3921ddaf829f65ddac23daec326f8f486.png",
+          "label": "08-avvio.png"
+        }
+      ],
+      "zh": [
+        {
+          "src": "./assets/screens/d0190ac832f9476355cf107bebed69cbd81bcaaf6fff29b63ef44532f6d3739b.png",
+          "label": "01-fonti.png"
+        },
+        {
+          "src": "./assets/screens/103e51a5ef00bf3b41e11a4e0b4fe5c5557c160fc0821b675912d30d8a6ad0c3.png",
+          "label": "02-archivio.png"
+        },
+        {
+          "src": "./assets/screens/67cf242373836a4ce030c142d56b93d89088ce2cd91ab1a15ef3b6b163320285.png",
+          "label": "03-pianificazione.png"
+        },
+        {
+          "src": "./assets/screens/da5d00b439cc576ab328fde2fc5b03b18e127e76d49951ac3e2e5c6f478107b4.png",
+          "label": "04-avvisi.png"
+        },
+        {
+          "src": "./assets/screens/1d9792c275d14700759c259272378ef625d23a3f2dbe3cd3fdf959310291c799.png",
+          "label": "05-registro.png"
+        },
+        {
+          "src": "./assets/screens/55303b5cb9406da9ebd949ad48ac57ce9673acc022eedc0a54a31a6a61ce1816.png",
+          "label": "06-guida.png"
+        },
+        {
+          "src": "./assets/screens/7a396c88963b52895ad3512d39d81f09cc6f0687030fbed4568f92be00248dbd.png",
+          "label": "07-informazioni.png"
+        },
+        {
+          "src": "./assets/screens/ab1dedec6993fe9e214d3da66a75ce48ba68c27a23bed05bbf6ad987409a363f.png",
+          "label": "08-avvio.png"
+        }
+      ]
     }
   },
   {
@@ -151,12 +557,210 @@
       }
     },
     "images": {
-      "it": "./assets/screens/AILocalDashboard-it.png",
-      "en": "./assets/screens/AILocalDashboard-en.png",
-      "es": "./assets/screens/AILocalDashboard-es.png",
-      "fr": "./assets/screens/AILocalDashboard-fr.png",
-      "de": "./assets/screens/AILocalDashboard-de.png",
-      "zh": "./assets/screens/AILocalDashboard-zh.png"
+      "it": [
+        {
+          "src": "./assets/screens/e8326a74e0d8d75c06c9e899356090e2e4a73bb19904fdfa03bd985f25c09724.png",
+          "label": "01-sistema.png"
+        },
+        {
+          "src": "./assets/screens/1637576f80c391c6ce6ef0dc4bb4b2a9b1555224bc49b1889ca2fc95222089b8.png",
+          "label": "02-motori.png"
+        },
+        {
+          "src": "./assets/screens/27c30fb16c47ac943c7787eaa85eb74f805e6eacef8bf1f06b831a26b7e64a7c.png",
+          "label": "03-modelli.png"
+        },
+        {
+          "src": "./assets/screens/1ccc8e087eeb77acdeed82f1c9d55bcd7f78b47557e0507b8965924364153ced.png",
+          "label": "04-server.png"
+        },
+        {
+          "src": "./assets/screens/78599ea1d3c5b6de6660b45a898d612e827383d0657587f8f1eccb9e6d10392c.png",
+          "label": "05-registro.png"
+        },
+        {
+          "src": "./assets/screens/80092b6662a31787cc1c9d401f3295dee1b47207240ffe0166246ab6a2cb81d5.png",
+          "label": "06-guida.png"
+        },
+        {
+          "src": "./assets/screens/d8cefeb33b9ed6e039d01d2c1da9c1e5c6f42c5d070561d56417a9191565954b.png",
+          "label": "07-informazioni.png"
+        },
+        {
+          "src": "./assets/screens/2eff43aa8d28724d0de0a7423652d352348631718c19177c30a0fb4e75ab7578.png",
+          "label": "08-avvio.png"
+        }
+      ],
+      "en": [
+        {
+          "src": "./assets/screens/e71f968692b49ee56f1a3d1bd4587855a6b135adbbce63591cfe5d74fdde270f.png",
+          "label": "01-sistema.png"
+        },
+        {
+          "src": "./assets/screens/418fc9a9c0b7e641dbb1c60b3bbee59373d65de9c3a2f21c8be931c34a2a2f30.png",
+          "label": "02-motori.png"
+        },
+        {
+          "src": "./assets/screens/36768395ad99380a9777bc4ec613bf119fcbf16cd1b8ea390a99ef72ca4f689b.png",
+          "label": "03-modelli.png"
+        },
+        {
+          "src": "./assets/screens/569fd85a59cc32fcafcfc1ec26e57cb40939e7b93ec261be50d78644ae6ed515.png",
+          "label": "04-server.png"
+        },
+        {
+          "src": "./assets/screens/fe49137ba90ca839fecac87d84660e045febbac286bebcf0b961aadc2ae0a3ad.png",
+          "label": "05-registro.png"
+        },
+        {
+          "src": "./assets/screens/0a6b0b85b6cb93b0068e04c5239ca4d543da1826302932d6bf95291c1b157dfd.png",
+          "label": "06-guida.png"
+        },
+        {
+          "src": "./assets/screens/d6c57876bc776eb5cab1e0cf81afa028d7917c5630fbf6580e33010e493ccb9c.png",
+          "label": "07-informazioni.png"
+        },
+        {
+          "src": "./assets/screens/60e2c876b24d52878cb707c2e75060234ba4f915d9f8d3c1589c703b7a4f9bb9.png",
+          "label": "08-avvio.png"
+        }
+      ],
+      "es": [
+        {
+          "src": "./assets/screens/9eabcfd14fa7aa74dc20e0e18e6352b348beccf9d4da9ff4ad8b4d669529a900.png",
+          "label": "01-sistema.png"
+        },
+        {
+          "src": "./assets/screens/0d79a70e25fccbdf470c64333f402ed350e415539520a1d7300315af8a557ea6.png",
+          "label": "02-motori.png"
+        },
+        {
+          "src": "./assets/screens/1f8aa2ae3cbd7c08c0ebc235f52af4b5e32a95168da1285192c6660968d09f6e.png",
+          "label": "03-modelli.png"
+        },
+        {
+          "src": "./assets/screens/5c89cb4d49cb31c6f948e2819681465367ddc805bceda894d51d881ea40baf9f.png",
+          "label": "04-server.png"
+        },
+        {
+          "src": "./assets/screens/ff705dc5146831ae967bcc6f4addab3c565c593367248098f6524f7c2a2d5838.png",
+          "label": "05-registro.png"
+        },
+        {
+          "src": "./assets/screens/22ef94990d99517b53e42ff9948084fb5b45b6511cc374fceaca3e442661f252.png",
+          "label": "06-guida.png"
+        },
+        {
+          "src": "./assets/screens/2c269f9b49b97f55d69278a3bf5c2df053369c24cd9bed2935a8b70edd8c22e0.png",
+          "label": "07-informazioni.png"
+        },
+        {
+          "src": "./assets/screens/0576f15355c34b4eca555fa8d01c853a49d9a2e64bf90ffc72d81df9c60a49da.png",
+          "label": "08-avvio.png"
+        }
+      ],
+      "fr": [
+        {
+          "src": "./assets/screens/52de8730cbbc3b9466ac7ffd0ef33e897680bde122fd2044d9a792b0f3a9ec45.png",
+          "label": "01-sistema.png"
+        },
+        {
+          "src": "./assets/screens/ec645a61a0024d19aa4e1f5a9d9d557d29e313cf5023ee385d3fd05e23973c05.png",
+          "label": "02-motori.png"
+        },
+        {
+          "src": "./assets/screens/850e829dfd99e7bb252f6272cb22fa647683566d48d9b6d3841d52613bee831d.png",
+          "label": "03-modelli.png"
+        },
+        {
+          "src": "./assets/screens/7a87f95443c38912240b11e7b9e16f645f97ae112e8876c577628464e275630e.png",
+          "label": "04-server.png"
+        },
+        {
+          "src": "./assets/screens/c2f72d903d6bd65160d79fa2bccfd3cfce1bb7d00db8d0fd20191bbd7f6b928a.png",
+          "label": "05-registro.png"
+        },
+        {
+          "src": "./assets/screens/4a3b23e367727005fdc28c68ec2214da491282616e4ed77c38430f25f3b12562.png",
+          "label": "06-guida.png"
+        },
+        {
+          "src": "./assets/screens/eb5bf6d2e2bcb052c6ebd56be0d53f20c4086622395cad87a475ffe853b1ca2e.png",
+          "label": "07-informazioni.png"
+        },
+        {
+          "src": "./assets/screens/46b3973aa5421fd5365eabc9ca0ab3ba57e440b2a644b0078cda051f667e8e6c.png",
+          "label": "08-avvio.png"
+        }
+      ],
+      "de": [
+        {
+          "src": "./assets/screens/f7d7d9f48a9b8f091eee87c9452f3730c71018cf15b7f36119fbac78ad37caef.png",
+          "label": "01-sistema.png"
+        },
+        {
+          "src": "./assets/screens/78fd1625d92465a8f832fee13933523632da9f6cf89f23952c271e6ee48eff06.png",
+          "label": "02-motori.png"
+        },
+        {
+          "src": "./assets/screens/d0a0efe09880ae93df6dcb34eac4da6c24e341fc1017d7529938163764094541.png",
+          "label": "03-modelli.png"
+        },
+        {
+          "src": "./assets/screens/f2623f6a957e3e6e83cf43935641c340981d05d6d0a72fde581f5ef9a5f4a00d.png",
+          "label": "04-server.png"
+        },
+        {
+          "src": "./assets/screens/a329bbb61488842595e395387fced6adbb32a39e0197c707ace0d4140f721ea6.png",
+          "label": "05-registro.png"
+        },
+        {
+          "src": "./assets/screens/92332079eb3a9dfbc8eb36f9be682af55b9e4800f0cae400f50d326a3e82f8f5.png",
+          "label": "06-guida.png"
+        },
+        {
+          "src": "./assets/screens/165c32aa00009916e035992c4f001091a5dbbe33cc9772afccdc92f11c22d3ea.png",
+          "label": "07-informazioni.png"
+        },
+        {
+          "src": "./assets/screens/2e34c2819cdf63165e02684a01a352d834f8955b217127c7169628145195b730.png",
+          "label": "08-avvio.png"
+        }
+      ],
+      "zh": [
+        {
+          "src": "./assets/screens/dd74116c419acb05914e0545f0d4f2c38d54d60ff34e122a17f93e25663ca0f2.png",
+          "label": "01-sistema.png"
+        },
+        {
+          "src": "./assets/screens/c2377c4b2eed1ffd395e4df5e1775887b618f2e6d7b582986ff8ab1ab2531a37.png",
+          "label": "02-motori.png"
+        },
+        {
+          "src": "./assets/screens/de49e4fbe4b7d665bb8a003facee9ece8c0a81230b3a06f39821deacd2ef5bd5.png",
+          "label": "03-modelli.png"
+        },
+        {
+          "src": "./assets/screens/696f80f2a4fdf69d00250858c3c905ec6a7fb3fef1a791bba4f3ab930eb35532.png",
+          "label": "04-server.png"
+        },
+        {
+          "src": "./assets/screens/3d320185722d63eacad6a808baa7e42b477e2cdd58dabab9b1478b97e6ac51a8.png",
+          "label": "05-registro.png"
+        },
+        {
+          "src": "./assets/screens/72e32b58def2ff9a5ae9faed92c8f5649e44971a65801da70af83ffd8f14a2cb.png",
+          "label": "06-guida.png"
+        },
+        {
+          "src": "./assets/screens/d4c6a9ec96a198b2f4242f384729ce353629136cb526cb807a4df0f1e4662f55.png",
+          "label": "07-informazioni.png"
+        },
+        {
+          "src": "./assets/screens/ff2a40213c011fc47eb752a1f9914677d75635bfbfab3c3121f2694c69d2590b.png",
+          "label": "08-avvio.png"
+        }
+      ]
     }
   }
 ]
