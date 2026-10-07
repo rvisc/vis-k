@@ -762,5 +762,457 @@
         }
       ]
     }
+  },
+  {
+    "folder": "IApet",
+    "name": "IApet",
+    "page": "https://rvisc.github.io/iapet/",
+    "store": "https://apps.microsoft.com/detail/9MXM9KR8SK94",
+    "translations": {
+      "it": {
+        "short": "Un personaggio animato che vive sul tuo desktop: conversa con te grazie a un'IA che gira sul tuo computer, ti ricorda le cose, legge i tuoi documenti, gioca con te e tiene d'occhio la sicurezza del PC. Non tocca mai niente senza il tuo permesso.",
+        "full": "IApet è un compagno curioso che cammina sul bordo dello schermo, guarda le icone del desktop e si fa sentire quando serve. Cliccalo e parla con lui nel suo fumetto: risponde con un modello di intelligenza artificiale che gira sul tuo computer, quindi le tue domande restano da te.\n\nTI DÀ UNA MANO\n- Sveglie, promemoria e timer: «svegliami alle 7», «timer di 10 minuti», «ricordami di comprare il pane alle 18». Li rivedi, li sposti e li cancelli dal menu.\n- I tuoi file: scegli una cartella di lavoro e chiedigli di riassumere un documento, descrivere un'immagine, trascrivere un audio o raccontarti che cosa si vede in un video.\n- Musica e video: li trova nelle tue cartelle e li fa partire; trova anche i video doppioni.\n- La voce: legge ad alta voce le risposte e ti ascolta mentre tieni premuto Ctrl+Alt+V. Il riconoscimento del parlato avviene sul tuo computer.\n\nTIENE D'OCCHIO IL PC\nControlla i programmi che partono con Windows, gli aggiornamenti, la sicurezza della rete Wi-Fi e i processi in esecuzione; ti dice se un indirizzo o il testo negli appunti hanno l'aria di una truffa; verifica se una password compare negli elenchi di password rubate senza mandarla da nessuna parte.\n\nTI FA COMPAGNIA\nSette giochi da fare insieme, scenette quando non ha niente da fare — apre porte magiche, innaffia un fiore che cresce, starnutisce vicino al cestino — e un carattere che impara come ti piace che ti parli.\n\nIL PERMESSO È TUO\nOgni azione sul sistema te la chiede prima, con la finestra del consenso. Puoi metterlo in pausa o congelare ogni azione con un clic, e guardare in ogni momento che cosa ha salvato.\n\nLE TUE COSE RESTANO TUE\nNessun account, nessuna telemetria, nessuna pubblicità. Tutto quello che impara sta sul tuo computer. Esce qualcosa solo quando lo chiedi tu: i primi 5 caratteri dell'impronta di una password da controllare, o i dati di riempimento di una misura della velocità della rete.\n\nCOSA TI SERVE\nWindows 10 (versione 2004) o Windows 11, 64 bit. Per conversare serve LM Studio, gratuito, con un modello linguistico scaricato, su questo computer o su un altro PC della rete di casa: IApet lo avvia e ci carica il modello da solo. Sveglie, giochi e controlli di sicurezza funzionano anche senza. Tutto il resto — runtime .NET e Visual C++, il modello per il parlato — è già nel pacchetto.\n\nNon hai ancora un'IA locale? AI Local Dashboard, un'app gratuita di Vis-K, ti aiuta a installarla e configurarla: https://apps.microsoft.com/detail/9NR5SCS8T4B8\nTi piace l'IA che lavora sul tuo computer? Prova anche EasyJobCall, che durante le riunioni online trascrive chi parla e ti suggerisce una risposta: https://apps.microsoft.com/detail/9P5WTK7LTRK7\nTutte le app Vis-K: https://rvisc.github.io/vis-k/\n\nInterfaccia e guida in italiano, inglese, spagnolo, francese, tedesco e cinese."
+      },
+      "en": {
+        "short": "An animated character who lives on your desktop: he talks with you thanks to an AI running on your computer, reminds you of things, reads your documents, plays with you and keeps an eye on your PC's security. He never touches anything without your permission.",
+        "full": "IApet is a curious companion who walks along the edge of the screen, looks at the icons on your desktop and speaks up when it's useful. Click him and talk to him in his speech bubble: he answers with an artificial intelligence model that runs on your computer, so your questions stay with you.\n\nHE GIVES YOU A HAND\n- Alarms, reminders and timers: \"wake me tomorrow at 7:30\", \"set a timer for 10 minutes\". You can review, move and delete them from the menu.\n- Your files: choose a working folder and ask him to summarise a document, describe an image, transcribe audio or tell you what can be seen in a video.\n- Music and video: he finds them in your folders and plays them; he also finds duplicate videos.\n- Voice: he reads his answers aloud and listens while you hold Ctrl+Alt+V. Speech recognition happens on your computer.\n\nHE KEEPS AN EYE ON YOUR PC\nHe checks the programs that start with Windows, updates, the security of your Wi-Fi network and running processes; he tells you when an address or the text on the clipboard looks like a scam; he checks whether a password appears in lists of stolen passwords without sending it anywhere.\n\nHE KEEPS YOU COMPANY\nSeven games to play together, little scenes when he has nothing to do — he opens magic doors, waters a flower that keeps growing, sneezes near the Recycle Bin — and a character that learns how you like to be spoken to.\n\nYOU GIVE THE PERMISSION\nHe asks before every action on the system, with the consent window. You can pause him or freeze every action with one click, and see at any time what he has saved.\n\nYOUR THINGS STAY YOURS\nNo account, no telemetry, no ads. Everything he learns stays on your computer. Something leaves only when you ask: the first 5 characters of a password's fingerprint to check it, or the filler data of a network speed test.\n\nWHAT YOU NEED\nWindows 10 (version 2004) or Windows 11, 64-bit. To converse you need LM Studio, free, with a language model downloaded, on this computer or on another PC on your home network: IApet starts it and loads the model by itself. Alarms, games and security checks also work without it. Everything else — .NET and Visual C++ runtimes, the speech model — is already in the package.\n\nNo local AI yet? AI Local Dashboard, a free app by Vis-K, helps you install and set it up: https://apps.microsoft.com/detail/9NR5SCS8T4B8\nLike AI that works on your own computer? Try EasyJobCall too: in online meetings it transcribes the speaker and suggests an answer: https://apps.microsoft.com/detail/9P5WTK7LTRK7\nAll Vis-K apps: https://rvisc.github.io/vis-k/\n\nInterface and guide in Italian, English, Spanish, French, German and Chinese."
+      },
+      "es": {
+        "short": "Un personaje animado que vive en tu escritorio: conversa contigo gracias a una IA que funciona en tu ordenador, te recuerda las cosas, lee tus documentos, juega contigo y vigila la seguridad del PC. Nunca toca nada sin tu permiso.",
+        "full": "IApet es un compañero curioso que camina por el borde de la pantalla, mira los iconos del escritorio y se hace notar cuando hace falta. Haz clic en él y habla con él en su bocadillo: responde con un modelo de inteligencia artificial que funciona en tu ordenador, así que tus preguntas se quedan contigo.\n\nTE ECHA UNA MANO\n- Alarmas, recordatorios y temporizadores: «despiértame mañana a las 7:30», «temporizador de 10 minutos». Los revisas, los mueves y los borras desde el menú.\n- Tus archivos: elige una carpeta de trabajo y pídele que resuma un documento, describa una imagen, transcriba un audio o te cuente qué se ve en un vídeo.\n- Música y vídeo: los encuentra en tus carpetas y los reproduce; también encuentra vídeos duplicados.\n- La voz: lee en voz alta las respuestas y te escucha mientras mantienes pulsado Ctrl+Alt+V. El reconocimiento de voz se hace en tu ordenador.\n\nVIGILA EL PC\nComprueba los programas que se inician con Windows, las actualizaciones, la seguridad de la red Wi-Fi y los procesos en ejecución; te dice si una dirección o el texto del portapapeles tienen pinta de estafa; comprueba si una contraseña aparece en listas de contraseñas robadas sin enviarla a ninguna parte.\n\nTE HACE COMPAÑÍA\nSiete juegos para jugar juntos, escenas cuando no tiene nada que hacer — abre puertas mágicas, riega una flor que crece, estornuda cerca de la papelera — y un carácter que aprende cómo te gusta que te hable.\n\nEL PERMISO ES TUYO\nTe pide permiso antes de cada acción en el sistema, con la ventana de consentimiento. Puedes ponerlo en pausa o congelar todas las acciones con un clic, y ver en cualquier momento lo que ha guardado.\n\nTUS COSAS SIGUEN SIENDO TUYAS\nSin cuenta, sin telemetría, sin publicidad. Todo lo que aprende se queda en tu ordenador. Solo sale algo cuando lo pides tú: los primeros 5 caracteres de la huella de una contraseña que quieres comprobar, o los datos de relleno de una medición de la velocidad de la red.\n\nQUÉ NECESITAS\nWindows 10 (versión 2004) o Windows 11, 64 bits. Para conversar hace falta LM Studio, gratuito, con un modelo de lenguaje descargado, en este ordenador o en otro PC de tu red doméstica: IApet lo inicia y carga el modelo él solo. Las alarmas, los juegos y los controles de seguridad funcionan también sin él. Todo lo demás — runtimes de .NET y Visual C++, el modelo de voz — ya está en el paquete.\n\n¿Aún no tienes una IA local? AI Local Dashboard, una app gratuita de Vis-K, te ayuda a instalarla y configurarla: https://apps.microsoft.com/detail/9NR5SCS8T4B8\n¿Te gusta la IA que trabaja en tu ordenador? Prueba también EasyJobCall, que en las reuniones en línea transcribe a quien habla y te sugiere una respuesta: https://apps.microsoft.com/detail/9P5WTK7LTRK7\nTodas las apps de Vis-K: https://rvisc.github.io/vis-k/\n\nInterfaz y guía en italiano, inglés, español, francés, alemán y chino."
+      },
+      "fr": {
+        "short": "Un personnage animé qui vit sur ton bureau : il discute avec toi grâce à une IA qui fonctionne sur ton ordinateur, te rappelle les choses, lit tes documents, joue avec toi et surveille la sécurité du PC. Il ne touche jamais à rien sans ta permission.",
+        "full": "IApet est un compagnon curieux qui marche le long du bord de l'écran, regarde les icônes du bureau et se manifeste quand c'est utile. Clique sur lui et parle-lui dans sa bulle : il répond avec un modèle d'intelligence artificielle qui fonctionne sur ton ordinateur, donc tes questions restent chez toi.\n\nIL TE DONNE UN COUP DE MAIN\n- Réveils, rappels et minuteurs : « réveille-moi demain à 7h30 », « minuteur de 10 minutes ». Tu les revois, les déplaces et les supprimes depuis le menu.\n- Tes fichiers : choisis un dossier de travail et demande-lui de résumer un document, décrire une image, transcrire un audio ou te raconter ce qu'on voit dans une vidéo.\n- Musique et vidéo : il les trouve dans tes dossiers et les lance ; il trouve aussi les vidéos en double.\n- La voix : il lit ses réponses à voix haute et t'écoute tant que tu maintiens Ctrl+Alt+V. La reconnaissance vocale se fait sur ton ordinateur.\n\nIL SURVEILLE TON PC\nIl contrôle les programmes qui démarrent avec Windows, les mises à jour, la sécurité du réseau Wi-Fi et les processus en cours ; il te dit si une adresse ou le texte du presse-papiers ressemble à une arnaque ; il vérifie si un mot de passe figure dans les listes de mots de passe volés sans l'envoyer nulle part.\n\nIL TE TIENT COMPAGNIE\nSept jeux à faire ensemble, des petites scènes quand il n'a rien à faire — il ouvre des portes magiques, arrose une fleur qui grandit, éternue près de la corbeille — et un caractère qui apprend comment tu aimes qu'on te parle.\n\nC'EST TOI QUI DONNES LA PERMISSION\nIl te demande avant chaque action sur le système, avec la fenêtre de consentement. Tu peux le mettre en pause ou geler toute action d'un clic, et voir à tout moment ce qu'il a enregistré.\n\nTES AFFAIRES RESTENT LES TIENNES\nPas de compte, pas de télémétrie, pas de publicité. Tout ce qu'il apprend reste sur ton ordinateur. Quelque chose ne sort que si tu le demandes : les 5 premiers caractères de l'empreinte d'un mot de passe à vérifier, ou les données de remplissage d'une mesure de la vitesse du réseau.\n\nCE QU'IL TE FAUT\nWindows 10 (version 2004) ou Windows 11, 64 bits. Pour discuter, il faut LM Studio, gratuit, avec un modèle de langage téléchargé, sur cet ordinateur ou sur un autre PC de ton réseau domestique : IApet le démarre et charge le modèle tout seul. Les réveils, les jeux et les contrôles de sécurité fonctionnent aussi sans. Tout le reste — runtimes .NET et Visual C++, le modèle vocal — est déjà dans le paquet.\n\nPas encore d'IA locale ? AI Local Dashboard, une appli gratuite de Vis-K, t'aide à l'installer et à la configurer : https://apps.microsoft.com/detail/9NR5SCS8T4B8\nTu aimes l'IA qui travaille sur ton ordinateur ? Essaie aussi EasyJobCall : en réunion en ligne, il transcrit ton interlocuteur et te suggère une réponse : https://apps.microsoft.com/detail/9P5WTK7LTRK7\nToutes les applis Vis-K : https://rvisc.github.io/vis-k/\n\nInterface et guide en italien, anglais, espagnol, français, allemand et chinois."
+      },
+      "de": {
+        "short": "Eine animierte Figur, die auf deinem Desktop wohnt: Sie spricht mit dir dank einer KI, die auf deinem Computer läuft, erinnert dich an Dinge, liest deine Dokumente, spielt mit dir und behält die Sicherheit des PCs im Auge. Sie rührt nie etwas ohne deine Erlaubnis an.",
+        "full": "IApet ist ein neugieriger Begleiter, der am Bildschirmrand entlangläuft, sich die Symbole auf dem Desktop ansieht und sich meldet, wenn es nützlich ist. Klick ihn an und sprich mit ihm in seiner Sprechblase: Er antwortet mit einem KI-Modell, das auf deinem Computer läuft, deine Fragen bleiben also bei dir.\n\nER HILFT DIR\n- Wecker, Erinnerungen und Timer: „weck mich morgen um 7:30\", „stell einen Timer für 10 Minuten\". Über das Menü siehst du sie durch, verschiebst und löschst sie.\n- Deine Dateien: Wähle einen Arbeitsordner und bitte ihn, ein Dokument zusammenzufassen, ein Bild zu beschreiben, eine Aufnahme zu transkribieren oder dir zu erzählen, was in einem Video zu sehen ist.\n- Musik und Video: Er findet sie in deinen Ordnern und spielt sie ab; er findet auch doppelte Videos.\n- Die Stimme: Er liest seine Antworten vor und hört zu, solange du Strg+Alt+V gedrückt hältst. Die Spracherkennung läuft auf deinem Computer.\n\nER BEHÄLT DEINEN PC IM BLICK\nEr prüft die Programme, die mit Windows starten, die Updates, die Sicherheit des WLANs und die laufenden Prozesse; er sagt dir, wenn eine Adresse oder der Text in der Zwischenablage nach Betrug aussieht; er prüft, ob ein Passwort in Listen gestohlener Passwörter vorkommt, ohne es irgendwohin zu senden.\n\nER LEISTET DIR GESELLSCHAFT\nSieben Spiele zum gemeinsamen Spielen, kleine Szenen, wenn er nichts zu tun hat — er öffnet magische Türen, gießt eine Blume, die wächst, niest in der Nähe des Papierkorbs — und ein Charakter, der lernt, wie du angesprochen werden möchtest.\n\nDIE ERLAUBNIS GIBST DU\nVor jeder Aktion am System fragt er dich mit dem Zustimmungsfenster. Mit einem Klick kannst du ihn pausieren oder jede Aktion einfrieren und jederzeit ansehen, was er gespeichert hat.\n\nDEINE SACHEN BLEIBEN DEINE\nKein Konto, keine Telemetrie, keine Werbung. Alles, was er lernt, bleibt auf deinem Computer. Es geht nur etwas hinaus, wenn du es verlangst: die ersten 5 Zeichen des Fingerabdrucks eines zu prüfenden Passworts oder die Fülldaten einer Messung der Netzgeschwindigkeit.\n\nWAS DU BRAUCHST\nWindows 10 (Version 2004) oder Windows 11, 64 Bit. Für Gespräche brauchst du LM Studio, kostenlos, mit einem heruntergeladenen Sprachmodell, auf diesem Computer oder auf einem anderen PC in deinem Heimnetz: IApet startet es und lädt das Modell von selbst. Wecker, Spiele und Sicherheitsprüfungen funktionieren auch ohne. Alles andere — .NET- und Visual-C++-Laufzeit, das Sprachmodell — ist schon im Paket.\n\nNoch keine lokale KI? AI Local Dashboard, eine kostenlose App von Vis-K, hilft dir beim Installieren und Einrichten: https://apps.microsoft.com/detail/9NR5SCS8T4B8\nDu magst KI, die auf deinem eigenen Computer arbeitet? Probier auch EasyJobCall: Es transkribiert in Online-Meetings dein Gegenüber und schlägt dir eine Antwort vor: https://apps.microsoft.com/detail/9P5WTK7LTRK7\nAlle Vis-K-Apps: https://rvisc.github.io/vis-k/\n\nOberfläche und Hilfe auf Italienisch, Englisch, Spanisch, Französisch, Deutsch und Chinesisch."
+      },
+      "zh": {
+        "short": "一个住在你桌面上的动画角色：借助在你电脑上运行的 AI 和你聊天，提醒你各种事情，阅读你的文档，陪你玩游戏，还会留意电脑的安全。没有你的允许，他什么都不会碰。",
+        "full": "IApet 是一个好奇的伙伴，沿着屏幕边缘走来走去，看看桌面上的图标，需要的时候就会出声。点击他，在对话气泡里和他聊天：他用在你电脑上运行的人工智能模型来回答，所以你的问题只留在你这里。\n\n他帮你的忙\n- 闹钟、提醒和计时器：「明天7:30叫醒我」「倒计时10分钟」。可以在菜单中查看、调整和删除。\n- 你的文件：选择一个工作文件夹，让他总结文档、描述图片、转写音频，或者告诉你视频里能看到什么。\n- 音乐和视频：他会在你的文件夹里找到并播放它们，还能找出重复的视频。\n- 语音：他可以朗读回答；按住 Ctrl+Alt+V 时他会听你说话。语音识别在你的电脑上完成。\n\n他留意你的电脑\n他会检查随 Windows 启动的程序、更新、Wi-Fi 网络的安全性以及正在运行的进程；地址或剪贴板里的文字像诈骗时他会告诉你；他能检查某个密码是否出现在被盗密码列表中，却不会把密码发到任何地方。\n\n他陪伴你\n七个可以一起玩的游戏；没事做的时候他会上演小场景——打开魔法门、给一朵会长大的花浇水、靠近回收站时打喷嚏；他的性格还会学会你喜欢的说话方式。\n\n允许与否由你决定\n每次对系统执行操作前，他都会通过同意窗口先问你。你可以一键让他暂停或冻结一切操作，也可以随时查看他保存了什么。\n\n你的东西始终属于你\n无需账户，没有遥测，没有广告。他学到的一切都留在你的电脑上。只有在你要求时才会有内容外传：要检查的密码指纹的前 5 个字符，或测速时的填充数据。\n\n你需要什么\nWindows 10（2004 版）或 Windows 11，64 位。要对话需要免费的 LM Studio，并在这台电脑或家庭网络中的另一台电脑上下载一个语言模型：IApet 会自己启动它并加载模型。没有它，闹钟、游戏和安全检查也照样能用。其他一切——.NET 和 Visual C++ 运行时、语音模型——都已包含在安装包中。\n\n还没有本地 AI？Vis-K 的免费应用 AI Local Dashboard 可以帮你安装和配置：https://apps.microsoft.com/detail/9NR5SCS8T4B8\n喜欢在自己电脑上运行的 AI？也试试 EasyJobCall：在线会议中它会转写对方的话并为你建议回答：https://apps.microsoft.com/detail/9P5WTK7LTRK7\n所有 Vis-K 应用：https://rvisc.github.io/vis-k/\n\n界面和指南支持意大利语、英语、西班牙语、法语、德语和中文。"
+      }
+    },
+    "images": {
+      "it": [
+        {
+          "src": "./assets/screens/IApet-it-01-conversazione.png",
+          "label": "01-conversazione"
+        },
+        {
+          "src": "./assets/screens/IApet-it-02-sveglia.png",
+          "label": "02-sveglia"
+        },
+        {
+          "src": "./assets/screens/IApet-it-03-elenco.png",
+          "label": "03-elenco"
+        },
+        {
+          "src": "./assets/screens/IApet-it-04-menu.png",
+          "label": "04-menu"
+        },
+        {
+          "src": "./assets/screens/IApet-it-05-documento.png",
+          "label": "05-documento"
+        },
+        {
+          "src": "./assets/screens/IApet-it-06-sospetto.png",
+          "label": "06-sospetto"
+        },
+        {
+          "src": "./assets/screens/IApet-it-07-password.png",
+          "label": "07-password"
+        },
+        {
+          "src": "./assets/screens/IApet-it-08-informazioni.png",
+          "label": "08-informazioni"
+        }
+      ],
+      "en": [
+        {
+          "src": "./assets/screens/IApet-en-01-conversazione.png",
+          "label": "01-conversazione"
+        },
+        {
+          "src": "./assets/screens/IApet-en-02-sveglia.png",
+          "label": "02-sveglia"
+        },
+        {
+          "src": "./assets/screens/IApet-en-03-elenco.png",
+          "label": "03-elenco"
+        },
+        {
+          "src": "./assets/screens/IApet-en-04-menu.png",
+          "label": "04-menu"
+        },
+        {
+          "src": "./assets/screens/IApet-en-05-documento.png",
+          "label": "05-documento"
+        },
+        {
+          "src": "./assets/screens/IApet-en-06-sospetto.png",
+          "label": "06-sospetto"
+        },
+        {
+          "src": "./assets/screens/IApet-en-07-password.png",
+          "label": "07-password"
+        },
+        {
+          "src": "./assets/screens/IApet-en-08-informazioni.png",
+          "label": "08-informazioni"
+        }
+      ],
+      "es": [
+        {
+          "src": "./assets/screens/IApet-es-01-conversazione.png",
+          "label": "01-conversazione"
+        },
+        {
+          "src": "./assets/screens/IApet-es-02-sveglia.png",
+          "label": "02-sveglia"
+        },
+        {
+          "src": "./assets/screens/IApet-es-03-elenco.png",
+          "label": "03-elenco"
+        },
+        {
+          "src": "./assets/screens/IApet-es-04-menu.png",
+          "label": "04-menu"
+        },
+        {
+          "src": "./assets/screens/IApet-es-05-documento.png",
+          "label": "05-documento"
+        },
+        {
+          "src": "./assets/screens/IApet-es-06-sospetto.png",
+          "label": "06-sospetto"
+        },
+        {
+          "src": "./assets/screens/IApet-es-07-password.png",
+          "label": "07-password"
+        },
+        {
+          "src": "./assets/screens/IApet-es-08-informazioni.png",
+          "label": "08-informazioni"
+        }
+      ],
+      "fr": [
+        {
+          "src": "./assets/screens/IApet-fr-01-conversazione.png",
+          "label": "01-conversazione"
+        },
+        {
+          "src": "./assets/screens/IApet-fr-02-sveglia.png",
+          "label": "02-sveglia"
+        },
+        {
+          "src": "./assets/screens/IApet-fr-03-elenco.png",
+          "label": "03-elenco"
+        },
+        {
+          "src": "./assets/screens/IApet-fr-04-menu.png",
+          "label": "04-menu"
+        },
+        {
+          "src": "./assets/screens/IApet-fr-05-documento.png",
+          "label": "05-documento"
+        },
+        {
+          "src": "./assets/screens/IApet-fr-06-sospetto.png",
+          "label": "06-sospetto"
+        },
+        {
+          "src": "./assets/screens/IApet-fr-07-password.png",
+          "label": "07-password"
+        },
+        {
+          "src": "./assets/screens/IApet-fr-08-informazioni.png",
+          "label": "08-informazioni"
+        }
+      ],
+      "de": [
+        {
+          "src": "./assets/screens/IApet-de-01-conversazione.png",
+          "label": "01-conversazione"
+        },
+        {
+          "src": "./assets/screens/IApet-de-02-sveglia.png",
+          "label": "02-sveglia"
+        },
+        {
+          "src": "./assets/screens/IApet-de-03-elenco.png",
+          "label": "03-elenco"
+        },
+        {
+          "src": "./assets/screens/IApet-de-04-menu.png",
+          "label": "04-menu"
+        },
+        {
+          "src": "./assets/screens/IApet-de-05-documento.png",
+          "label": "05-documento"
+        },
+        {
+          "src": "./assets/screens/IApet-de-06-sospetto.png",
+          "label": "06-sospetto"
+        },
+        {
+          "src": "./assets/screens/IApet-de-07-password.png",
+          "label": "07-password"
+        },
+        {
+          "src": "./assets/screens/IApet-de-08-informazioni.png",
+          "label": "08-informazioni"
+        }
+      ],
+      "zh": [
+        {
+          "src": "./assets/screens/IApet-zh-01-conversazione.png",
+          "label": "01-conversazione"
+        },
+        {
+          "src": "./assets/screens/IApet-zh-02-sveglia.png",
+          "label": "02-sveglia"
+        },
+        {
+          "src": "./assets/screens/IApet-zh-03-elenco.png",
+          "label": "03-elenco"
+        },
+        {
+          "src": "./assets/screens/IApet-zh-04-menu.png",
+          "label": "04-menu"
+        },
+        {
+          "src": "./assets/screens/IApet-zh-05-documento.png",
+          "label": "05-documento"
+        },
+        {
+          "src": "./assets/screens/IApet-zh-06-sospetto.png",
+          "label": "06-sospetto"
+        },
+        {
+          "src": "./assets/screens/IApet-zh-07-password.png",
+          "label": "07-password"
+        },
+        {
+          "src": "./assets/screens/IApet-zh-08-informazioni.png",
+          "label": "08-informazioni"
+        }
+      ]
+    }
+  },
+  {
+    "folder": "VideoTwins",
+    "name": "VideoTwins",
+    "page": "https://rvisc.github.io/videotwins/",
+    "store": "https://apps.microsoft.com/detail/9PC5S6Q5XF1P",
+    "translations": {
+      "it": {
+        "short": "Trova i video doppioni confrontandone i fotogrammi, anche quando hanno un altro nome, un'altra risoluzione o stanno in un'altra cartella. Poi li sposta nel cestino o dove vuoi tu, senza mai cancellare niente.",
+        "full": "Il telefono, il vecchio disco esterno, la cartella Download, il backup di due anni fa: gli stessi video finiscono in tre posti con tre nomi diversi, e lo spazio sparisce. VideoTwins li ritrova guardandoli, non leggendone il nome.\n\nCOME LI RICONOSCE\nMette insieme i video che durano uguale e ne confronta fino a nove fotogrammi presi lungo tutta la durata. Così riconosce una copia rinominata, ricodificata o ridimensionata, e non si lascia ingannare da due video diversi che cominciano con la stessa sigla. Per ogni file ti dice quanto somiglia e su quanti fotogrammi l'ha misurato; due copie identiche byte per byte le chiama col loro nome: copia identica.\n\nIN TUTTE LE CARTELLE CHE VUOI\nAggiungi le cartelle con un pulsante o trascinandole nella finestra, anche su dischi diversi: si cerca in tutte insieme, sottocartelle comprese. La tabella mostra per ogni video la cartella da cui viene, la dimensione, la durata, la risoluzione e un fotogramma.\n\nGUARDALI PRIMA DI DECIDERE\nDue riquadri ai lati della tabella: metti un video a sinistra e uno a destra e falli partire insieme, per vederli fianco a fianco.\n\nTOGLI LE COPIE IN SICUREZZA\nUn clic seleziona, in ogni gruppo di doppioni, tutte le copie tranne la più definita; le spunte le puoi cambiare a mano. Poi scegli: nel cestino di Windows, da cui puoi ripescarle, oppure in un'altra cartella. Prima ti chiede conferma; spostando non sovrascrive mai niente, e fuori dalle cartelle che hai scelto non tocca nessun file. Non cancella mai niente definitivamente.\n\nLE TUE COSE RESTANO TUE\nNessun account, nessuna telemetria, nessuna pubblicità: il programma non si collega a Internet. I fotogrammi li legge Windows stesso, sul tuo computer, e i tuoi video non vanno da nessuna parte.\n\nCOSA TI SERVE\nWindows 10 (versione 2004) o Windows 11, 64 bit. Niente altro da installare. Apre i formati che Windows sa decodificare: MP4, MOV, M4V, AVI, WMV, MPG, MTS e gli altri comuni; per MKV, WebM o HEVC può servire l'estensione video gratuita di Microsoft.\n\nHai cartelle piene di documenti e video? Prova anche IApet, un compagno animato che vive sul desktop e, con l'IA che gira sul tuo computer, li riassume, li descrive e ti racconta che cosa si vede nei video: https://apps.microsoft.com/detail/9MXM9KR8SK94\nTutte le app Vis-K: https://rvisc.github.io/vis-k/\n\nInterfaccia in italiano, inglese, spagnolo, francese, tedesco e cinese."
+      },
+      "en": {
+        "short": "Finds duplicate videos by comparing their frames, even when they have another name, another resolution or sit in another folder. Then it moves them to the Recycle Bin or wherever you want, never deleting anything.",
+        "full": "Your phone, the old external drive, the Downloads folder, the backup from two years ago: the same videos end up in three places under three different names, and the space disappears. VideoTwins finds them by looking at them, not by reading their names.\n\nHOW IT RECOGNISES THEM\nIt groups the videos with the same length and compares up to nine frames taken along the whole video. That way it recognises a renamed, re-encoded or resized copy, and is not fooled by two different videos that start with the same intro. For each file it tells you how alike it is and over how many frames it measured; two copies identical byte for byte are called by their name: identical copy.\n\nIN ALL THE FOLDERS YOU WANT\nAdd folders with a button or by dragging them into the window, even on different drives: they are searched together, subfolders included. For each video the table shows the folder it comes from, the size, the length, the resolution and a frame.\n\nLOOK BEFORE YOU DECIDE\nTwo boxes beside the table: put one video on the left and one on the right and start them together, to see them side by side.\n\nREMOVE COPIES SAFELY\nOne click selects, in each group of duplicates, all copies except the sharpest one; you can change the ticks by hand. Then you choose: into the Windows Recycle Bin, where you can get them back, or into another folder. It asks for confirmation first; when moving it never overwrites anything, and it does not touch any file outside the folders you chose. It never deletes anything permanently.\n\nYOUR THINGS STAY YOURS\nNo account, no telemetry, no ads: the program does not connect to the Internet. The frames are read by Windows itself, on your computer, and your videos go nowhere.\n\nWHAT YOU NEED\nWindows 10 (version 2004) or Windows 11, 64-bit. Nothing else to install. It opens the formats Windows can decode: MP4, MOV, M4V, AVI, WMV, MPG, MTS and the other common ones; for MKV, WebM or HEVC you may need Microsoft's free video extension.\n\nGot folders full of documents and videos? Try IApet too, an animated companion living on your desktop that, with AI running on your computer, summarises them, describes them and tells you what can be seen in your videos: https://apps.microsoft.com/detail/9MXM9KR8SK94\nAll Vis-K apps: https://rvisc.github.io/vis-k/\n\nInterface in Italian, English, Spanish, French, German and Chinese."
+      },
+      "es": {
+        "short": "Encuentra vídeos duplicados comparando sus fotogramas, aunque tengan otro nombre, otra resolución o estén en otra carpeta. Luego los mueve a la papelera o adonde tú quieras, sin borrar nunca nada.",
+        "full": "El teléfono, el disco externo viejo, la carpeta Descargas, la copia de seguridad de hace dos años: los mismos vídeos acaban en tres sitios con tres nombres distintos, y el espacio desaparece. VideoTwins los encuentra mirándolos, no leyendo su nombre.\n\nCÓMO LOS RECONOCE\nAgrupa los vídeos que duran lo mismo y compara hasta nueve fotogramas tomados a lo largo de todo el vídeo. Así reconoce una copia renombrada, recodificada o redimensionada, y no se deja engañar por dos vídeos distintos que empiezan con la misma cabecera. Para cada archivo te dice cuánto se parece y en cuántos fotogramas lo ha medido; dos copias idénticas byte a byte las llama por su nombre: copia idéntica.\n\nEN TODAS LAS CARPETAS QUE QUIERAS\nAñade carpetas con un botón o arrastrándolas a la ventana, incluso en discos distintos: se busca en todas a la vez, subcarpetas incluidas. Para cada vídeo la tabla muestra la carpeta de la que viene, el tamaño, la duración, la resolución y un fotograma.\n\nMÍRALOS ANTES DE DECIDIR\nDos recuadros a los lados de la tabla: pon un vídeo a la izquierda y otro a la derecha y reprodúcelos a la vez, para verlos lado a lado.\n\nQUITA LAS COPIAS CON SEGURIDAD\nUn clic selecciona, en cada grupo de duplicados, todas las copias menos la más nítida; puedes cambiar las marcas a mano. Luego eliges: a la papelera de Windows, de donde puedes recuperarlas, o a otra carpeta. Antes te pide confirmación; al mover nunca sobrescribe nada, y no toca ningún archivo fuera de las carpetas que has elegido. Nunca borra nada definitivamente.\n\nTUS COSAS SIGUEN SIENDO TUYAS\nSin cuenta, sin telemetría, sin publicidad: el programa no se conecta a Internet. Los fotogramas los lee el propio Windows, en tu ordenador, y tus vídeos no van a ninguna parte.\n\nQUÉ NECESITAS\nWindows 10 (versión 2004) o Windows 11, 64 bits. Nada más que instalar. Abre los formatos que Windows sabe decodificar: MP4, MOV, M4V, AVI, WMV, MPG, MTS y los demás habituales; para MKV, WebM o HEVC puede hacer falta la extensión de vídeo gratuita de Microsoft.\n\n¿Tienes carpetas llenas de documentos y vídeos? Prueba también IApet, un compañero animado que vive en el escritorio y, con la IA que funciona en tu ordenador, los resume, los describe y te cuenta qué se ve en tus vídeos: https://apps.microsoft.com/detail/9MXM9KR8SK94\nTodas las apps de Vis-K: https://rvisc.github.io/vis-k/\n\nInterfaz en italiano, inglés, español, francés, alemán y chino."
+      },
+      "fr": {
+        "short": "Trouve les vidéos en double en comparant leurs images, même quand elles ont un autre nom, une autre résolution ou se trouvent dans un autre dossier. Puis il les déplace dans la Corbeille ou là où tu veux, sans jamais rien supprimer.",
+        "full": "Le téléphone, le vieux disque externe, le dossier Téléchargements, la sauvegarde d'il y a deux ans : les mêmes vidéos finissent à trois endroits sous trois noms différents, et l'espace disparaît. VideoTwins les retrouve en les regardant, pas en lisant leur nom.\n\nCOMMENT IL LES RECONNAÎT\nIl réunit les vidéos de même durée et compare jusqu'à neuf images prises sur toute la vidéo. Il reconnaît ainsi une copie renommée, réencodée ou redimensionnée, et ne se laisse pas tromper par deux vidéos différentes qui commencent par le même générique. Pour chaque fichier il te dit à quel point il ressemble et sur combien d'images il l'a mesuré ; deux copies identiques octet par octet sont appelées par leur nom : copie identique.\n\nDANS TOUS LES DOSSIERS QUE TU VEUX\nAjoute des dossiers avec un bouton ou en les faisant glisser dans la fenêtre, même sur des disques différents : la recherche se fait dans tous à la fois, sous-dossiers compris. Pour chaque vidéo le tableau montre le dossier d'où elle vient, la taille, la durée, la résolution et une image.\n\nREGARDE-LES AVANT DE DÉCIDER\nDeux cadres de part et d'autre du tableau : mets une vidéo à gauche et une à droite et lance-les ensemble, pour les voir côte à côte.\n\nRETIRE LES COPIES EN TOUTE SÉCURITÉ\nUn clic sélectionne, dans chaque groupe de doublons, toutes les copies sauf la plus nette ; tu peux changer les coches à la main. Ensuite tu choisis : dans la Corbeille de Windows, d'où tu peux les récupérer, ou dans un autre dossier. Il demande d'abord confirmation ; en déplaçant il n'écrase jamais rien, et il ne touche à aucun fichier en dehors des dossiers choisis. Il ne supprime jamais rien définitivement.\n\nTES AFFAIRES RESTENT LES TIENNES\nPas de compte, pas de télémétrie, pas de publicité : le programme ne se connecte pas à Internet. Les images sont lues par Windows lui-même, sur ton ordinateur, et tes vidéos ne vont nulle part.\n\nCE QU'IL TE FAUT\nWindows 10 (version 2004) ou Windows 11, 64 bits. Rien d'autre à installer. Il ouvre les formats que Windows sait décoder : MP4, MOV, M4V, AVI, WMV, MPG, MTS et les autres formats courants ; pour MKV, WebM ou HEVC, l'extension vidéo gratuite de Microsoft peut être nécessaire.\n\nTu as des dossiers pleins de documents et de vidéos ? Essaie aussi IApet, un compagnon animé qui vit sur le bureau et qui, avec l'IA qui tourne sur ton ordinateur, les résume, les décrit et te raconte ce qu'on voit dans tes vidéos: https://apps.microsoft.com/detail/9MXM9KR8SK94\nToutes les applis Vis-K: https://rvisc.github.io/vis-k/\n\nInterface en italien, anglais, espagnol, français, allemand et chinois."
+      },
+      "de": {
+        "short": "Findet doppelte Videos, indem es ihre Bilder vergleicht – auch wenn sie anders heißen, eine andere Auflösung haben oder in einem anderen Ordner liegen. Dann verschiebt es sie in den Papierkorb oder wohin du willst, ohne je etwas zu löschen.",
+        "full": "Das Handy, die alte externe Festplatte, der Download-Ordner, die Sicherung von vor zwei Jahren: Dieselben Videos landen an drei Orten unter drei Namen, und der Speicherplatz verschwindet. VideoTwins findet sie, indem es sie ansieht, nicht indem es ihre Namen liest.\n\nWIE ES SIE ERKENNT\nEs fasst gleich lange Videos zusammen und vergleicht bis zu neun Bilder aus dem ganzen Video. So erkennt es eine umbenannte, neu kodierte oder verkleinerte Kopie und lässt sich nicht von zwei verschiedenen Videos täuschen, die mit demselben Vorspann beginnen. Zu jeder Datei sagt es, wie ähnlich sie ist und über wie viele Bilder es gemessen hat; zwei Byte für Byte identische Kopien nennt es beim Namen: identische Kopie.\n\nIN ALLEN ORDNERN, DIE DU WILLST\nOrdner fügst du per Schaltfläche hinzu oder ziehst sie ins Fenster, auch auf verschiedenen Laufwerken: Gesucht wird in allen zugleich, samt Unterordnern. Zu jedem Video zeigt die Tabelle den Ordner, aus dem es stammt, Größe, Länge, Auflösung und ein Bild.\n\nERST ANSEHEN, DANN ENTSCHEIDEN\nZwei Felder neben der Tabelle: Leg ein Video links und eines rechts ab und spiel sie zusammen ab, um sie nebeneinander zu sehen.\n\nKOPIEN SICHER ENTFERNEN\nEin Klick markiert in jeder Duplikatgruppe alle Kopien außer der schärfsten; die Häkchen kannst du von Hand ändern. Dann wählst du: in den Windows-Papierkorb, aus dem du sie zurückholen kannst, oder in einen anderen Ordner. Vorher wird um Bestätigung gebeten; beim Verschieben wird nie etwas überschrieben, und keine Datei außerhalb der gewählten Ordner wird angerührt. Endgültig gelöscht wird nie etwas.\n\nDEINE SACHEN BLEIBEN DEINE\nKein Konto, keine Telemetrie, keine Werbung: Das Programm verbindet sich nicht mit dem Internet. Die Bilder liest Windows selbst, auf deinem Computer, und deine Videos gehen nirgendwohin.\n\nWAS DU BRAUCHST\nWindows 10 (Version 2004) oder Windows 11, 64 Bit. Sonst nichts zu installieren. Es öffnet die Formate, die Windows dekodieren kann: MP4, MOV, M4V, AVI, WMV, MPG, MTS und die anderen gängigen; für MKV, WebM oder HEVC kann die kostenlose Videoerweiterung von Microsoft nötig sein.\n\nOrdner voller Dokumente und Videos? Probier auch IApet, einen animierten Begleiter auf deinem Desktop, der sie mit einer KI auf deinem Computer zusammenfasst, beschreibt und erzählt, was in deinen Videos zu sehen ist: https://apps.microsoft.com/detail/9MXM9KR8SK94\nAlle Vis-K Apps: https://rvisc.github.io/vis-k/\n\nOberfläche auf Italienisch, Englisch, Spanisch, Französisch, Deutsch und Chinesisch."
+      },
+      "zh": {
+        "short": "通过比较画面查找重复视频，即使它们改了名、分辨率不同或放在别的文件夹里。然后把它们移到回收站或你想要的地方，从不删除任何东西。",
+        "full": "手机、旧的移动硬盘、下载文件夹、两年前的备份：同样的视频散落在三个地方，有三个不同的名字，空间就这样不见了。VideoTwins 通过看视频本身而不是读文件名来找到它们。\n\n如何认出重复\n它把时长相同的视频归为一组，在整个视频中取多达九个画面进行比较。因此它能认出改了名、重新编码或缩放过的副本，也不会被两个片头相同的不同视频骗过。对每个文件，它都会告诉你相似程度以及是基于多少个画面测得的；逐字节完全相同的两个副本，它会直接称之为：完全相同的副本。\n\n想搜哪些文件夹都行\n用按钮添加文件夹，或者把它们拖进窗口，也可以在不同的磁盘上：会同时搜索所有文件夹，包括子文件夹。表格为每个视频显示所在文件夹、大小、时长、分辨率和一个画面。\n\n先看再决定\n表格两侧各有一个播放框：把一个视频放在左边、一个放在右边，同时播放，并排查看。\n\n安全地移走副本\n一键在每组重复视频中选中除最清晰的那个以外的所有副本；你可以手动修改勾选。然后由你选择：移到 Windows 回收站（可以从那里找回），或者移到另一个文件夹。它会先请你确认；移动时绝不覆盖任何文件，也不会碰你所选文件夹之外的任何文件。它从不永久删除任何东西。\n\n你的东西始终属于你\n无需账户，没有遥测，没有广告：程序不连接互联网。画面由 Windows 在你的电脑上读取，你的视频哪儿也不去。\n\n你需要什么\nWindows 10（版本 2004）或 Windows 11，64 位。无需另外安装任何东西。它能打开 Windows 能解码的格式：MP4、MOV、M4V、AVI、WMV、MPG、MTS 等常见格式；MKV、WebM 或 HEVC 可能需要 Microsoft 的免费视频扩展。\n\n文件夹里满是文档和视频？也试试 IApet：住在桌面上的动画伙伴，借助在你电脑上运行的 AI 总结、描述它们，并告诉你视频里能看到什么：https://apps.microsoft.com/detail/9MXM9KR8SK94\n所有 Vis-K 应用：https://rvisc.github.io/vis-k/\n\n界面支持意大利语、英语、西班牙语、法语、德语和中文。"
+      }
+    },
+    "images": {
+      "it": [
+        {
+          "src": "./assets/screens/VideoTwins-it-01-risultati.png",
+          "label": "01-risultati"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-it-02-fianco.png",
+          "label": "02-fianco"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-it-03-selezione.png",
+          "label": "03-selezione"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-it-04-cestino.png",
+          "label": "04-cestino"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-it-05-sposta.png",
+          "label": "05-sposta"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-it-06-soli.png",
+          "label": "06-soli"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-it-07-ricerca.png",
+          "label": "07-ricerca"
+        }
+      ],
+      "en": [
+        {
+          "src": "./assets/screens/VideoTwins-en-01-risultati.png",
+          "label": "01-risultati"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-en-02-fianco.png",
+          "label": "02-fianco"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-en-03-selezione.png",
+          "label": "03-selezione"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-en-04-cestino.png",
+          "label": "04-cestino"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-en-05-sposta.png",
+          "label": "05-sposta"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-en-06-soli.png",
+          "label": "06-soli"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-en-07-ricerca.png",
+          "label": "07-ricerca"
+        }
+      ],
+      "es": [
+        {
+          "src": "./assets/screens/VideoTwins-es-01-risultati.png",
+          "label": "01-risultati"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-es-02-fianco.png",
+          "label": "02-fianco"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-es-03-selezione.png",
+          "label": "03-selezione"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-es-04-cestino.png",
+          "label": "04-cestino"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-es-05-sposta.png",
+          "label": "05-sposta"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-es-06-soli.png",
+          "label": "06-soli"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-es-07-ricerca.png",
+          "label": "07-ricerca"
+        }
+      ],
+      "fr": [
+        {
+          "src": "./assets/screens/VideoTwins-fr-01-risultati.png",
+          "label": "01-risultati"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-fr-02-fianco.png",
+          "label": "02-fianco"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-fr-03-selezione.png",
+          "label": "03-selezione"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-fr-04-cestino.png",
+          "label": "04-cestino"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-fr-05-sposta.png",
+          "label": "05-sposta"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-fr-06-soli.png",
+          "label": "06-soli"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-fr-07-ricerca.png",
+          "label": "07-ricerca"
+        }
+      ],
+      "de": [
+        {
+          "src": "./assets/screens/VideoTwins-de-01-risultati.png",
+          "label": "01-risultati"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-de-02-fianco.png",
+          "label": "02-fianco"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-de-03-selezione.png",
+          "label": "03-selezione"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-de-04-cestino.png",
+          "label": "04-cestino"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-de-05-sposta.png",
+          "label": "05-sposta"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-de-06-soli.png",
+          "label": "06-soli"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-de-07-ricerca.png",
+          "label": "07-ricerca"
+        }
+      ],
+      "zh": [
+        {
+          "src": "./assets/screens/VideoTwins-zh-01-risultati.png",
+          "label": "01-risultati"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-zh-02-fianco.png",
+          "label": "02-fianco"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-zh-03-selezione.png",
+          "label": "03-selezione"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-zh-04-cestino.png",
+          "label": "04-cestino"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-zh-05-sposta.png",
+          "label": "05-sposta"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-zh-06-soli.png",
+          "label": "06-soli"
+        },
+        {
+          "src": "./assets/screens/VideoTwins-zh-07-ricerca.png",
+          "label": "07-ricerca"
+        }
+      ]
+    }
   }
 ]
