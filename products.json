@@ -1214,5 +1214,195 @@
         }
       ]
     }
+  },
+  {
+    "folder": "Officina3D",
+    "name": "Officina3D",
+    "page": "https://rvisc.github.io/officina3d/",
+    "store": "https://apps.microsoft.com/detail/9NRVMVSMMS1X",
+    "translations": {
+      "it": {
+        "short": "Dal segno alla forma: organizza, genera e ritocca i tuoi asset 3D sul PC.",
+        "full": "Officina 3D raccoglie disegni e modelli 3D in un catalogo con progetti, descrizioni e versioni. Importa immagini e GLB, collega ComfyUI o Modly e gestisci le generazioni da una coda di lavoro. Scegli i workflow compatibili e conserva la provenienza delle versioni.\n\nCorreggi i colori selezionando direttamente una zona del modello con il contagocce e regolando la somiglianza. Seleziona più aree, aggiungi o sottrai parti e controlla l’anteprima prima di salvare una nuova versione. Gli strumenti geometrici aiutano a intervenire su buchi, frammenti e parti indesiderate.\n\nSeleziona più asset e aggiungili alla coda con parametri comuni. Esporta in un solo ZIP tutti i disegni e i modelli del progetto, con nomi riconoscibili. Interfaccia, guida e documenti sono disponibili in italiano, inglese, spagnolo, francese, tedesco e cinese semplificato.\n\nL’app non richiede un account proprio, non contiene pubblicità e non invia il catalogo al produttore. I contenuti vengono elaborati localmente dall’app e dai motori che configuri. Le eventuali estensioni dei motori hanno condizioni proprie.\n\nREQUISITI IMPORTANTI: Windows 11 x64. Catalogo, importazione e correzioni locali non richiedono un motore IA. Per generare devi installare e configurare separatamente ComfyUI o Modly, nodi, workflow e modelli compatibili; non sono inclusi. Verifica requisiti GPU, memoria e licenze dei modelli prima del download. I modelli più impegnativi possono richiedere circa 32 GB di RAM e 16 GB di VRAM. Python, Visual C++ e WebView2 sono inclusi.\n\n- catalogo e versioni.\n- importazione PNG/JPEG/GLB.\n- generazione tramite motori locali.\n- coda con annullamento.\n- generazione multipla.\n- correzione colori e geometria con anteprima.\n- esportazione completa ZIP.\n- sei lingue.\n- verifica guidata dei prerequisiti.\n- Rigging umanoide MIA tramite ComfyUI e nodi compatibili.\n- Esportazione della geometria compatibile in STL, OBJ e 3MF.\n- Download e installazione guidati dei modelli verificati disponibili."
+      },
+      "en": {
+        "short": "From sketch to form: organize, generate, and retouch your 3D assets on the PC.",
+        "full": "Officina 3D collects 3D drawings and models in a catalog with projects, descriptions, and versions. Import images and GLB, connect ComfyUI or Modly, and manage generations from a job queue. Choose compatible workflows and preserve the provenance of versions.\n\nCorrect colors by directly selecting an area of the model with the eyedropper and adjusting the similarity. Select multiple areas, add or subtract parts, and check the preview before saving a new version. The geometric tools help to intervene on holes, fragments, and unwanted parts.\n\nSelect multiple assets and add them to the queue with common parameters. Export all the drawings and models of the project in a single ZIP, with recognizable names. The interface, guide, and documents are available in Italian, English, Spanish, French, German, and Simplified Chinese.\n\nThe app does not require a proprietary account, does not contain advertisements, and does not send the catalog to the manufacturer. The contents are processed locally by the app and the engines you configure. Any engine extensions have their own terms.\n\nIMPORTANT REQUIREMENTS: Windows 11 x64. The catalog, local import, and corrections do not require an AI engine. To generate, you must separately install and configure ComfyUI or Modly, nodes, workflows, and compatible models; these are not included. Verify GPU, memory, and model licenses before downloading. The most demanding models may require approximately 32 GB of RAM and 16 GB of VRAM. Python, Visual C++, and WebView2 are included.\n\n- catalog and versions.\n- PNG/JPEG/GLB import.\n- generation via local engines.\n- queue with cancellation.\n- multiple generation.\n- color and geometry correction with preview.\n- full ZIP export.\n- six languages.\n- guided prerequisite check.\n- MIA humanoid rigging through ComfyUI and compatible nodes.\n- Export compatible geometry to STL, OBJ and 3MF.\n- Guided download and installation of available verified models."
+      },
+      "es": {
+        "short": "Del signo a la forma: organiza, genera y retoca tus assets 3D en el PC.",
+        "full": "Officina 3D recopila dibujos y modelos 3D en un catálogo con proyectos, descripciones y versiones. Importa imágenes y GLB, conecta ComfyUI o Modly y gestiona las generaciones desde una cola de trabajo. Elige los flujos de trabajo compatibles y conserva el origen de las versiones.\n\nCorrija los colores seleccionando directamente una zona del modelo con el gotero y ajustando la similitud. Seleccione varias áreas, añada o reste partes y compruebe la previsualización antes de guardar una nueva versión. Las herramientas geométricas ayudan a intervenir en agujeros, fragmentos y partes no deseadas.\n\nSeleccione varios *assets* y añádalos a la cola con parámetros comunes. Exporte todos los dibujos y modelos del proyecto en un único ZIP, con nombres reconocibles. La interfaz, la guía y la documentación están disponibles en italiano, inglés, español, francés, alemán y chino simplificado.\n\nLa aplicación no requiere cuenta propia, no contiene publicidad y no envía el catálogo al fabricante. El contenido se procesa localmente por la aplicación y por los motores que configure. Las posibles extensiones de los motores tienen sus propias condiciones.\n\nREQUISITOS IMPORTANTES: Windows 11 x64. El catálogo, la importación y las correcciones locales no requieren un motor de IA. Para generar, debe instalar y configurar por separado ComfyUI o Modly, nodos, flujos de trabajo y modelos compatibles; estos no están incluidos. Verifique los requisitos de GPU, memoria y licencias de los modelos antes de la descarga. Los modelos más exigentes pueden requerir aproximadamente 32 GB de RAM y 16 GB de VRAM. Python, Visual C++ y WebView2 están incluidos.\n\n- catálogo y versiones.\n- importación PNG/JPEG/GLB.\n- generación mediante motores locales.\n- cola con cancelación.\n- generación múltiple.\n- corrección de color y geometría con previsualización.\n- exportación completa ZIP.\n- seis idiomas.\n- verificación guiada de prerrequisitos.\n- Rigging humanoide MIA mediante ComfyUI y nodos compatibles.\n- Exportación de geometría compatible a STL, OBJ y 3MF.\n- Descarga e instalación guiadas de los modelos verificados disponibles."
+      },
+      "fr": {
+        "short": "Du croquis à la forme : organisez, générez et retouchez vos assets 3D sur PC.",
+        "full": "Officina 3D rassemble dessins et modèles 3D dans un catalogue avec des projets, des descriptions et des versions. Importez des images et GLB, connectez ComfyUI ou Modly et gérez les générations depuis une file de travail. Choisissez les workflows compatibles et conservez la provenance des versions.\n\nCorrigez les couleurs en sélectionnant directement une zone du modèle avec l'outil pipette et en ajustant la similarité. Sélectionnez plusieurs zones, ajoutez ou soustrayez des parties et vérifiez l'aperçu avant de sauvegarder une nouvelle version. Les outils géométriques aident à intervenir sur les trous, les fragments et les parties indésirables.\n\nSélectionnez plusieurs assets et ajoutez-les à la file avec des paramètres communs. Exportez tous les dessins et modèles du projet dans un seul fichier ZIP, avec des noms reconnaissables. L'interface, le guide et la documentation sont disponibles en italien, anglais, espagnol, français, allemand et chinois simplifié.\n\nL'application ne nécessite pas de compte personnel, ne contient pas de publicités et n'envoie pas le catalogue au fabricant. Le contenu est traité localement par l'application et par les moteurs que vous configurez. Les éventuelles extensions des moteurs ont leurs propres conditions.\n\nEXIGENCES IMPORTANTES : Windows 11 x64. Le catalogue, l'importation et les corrections locales ne nécessitent pas de moteur IA. Pour générer, vous devez installer et configurer séparément ComfyUI ou Modly, les nœuds, les workflows et les modèles compatibles ; ils ne sont pas inclus. Veuillez vérifier les exigences GPU, mémoire et les licences des modèles avant le téléchargement. Les modèles les plus exigeants peuvent nécessiter environ 32 Go de RAM et 16 Go de VRAM. Python, Visual C++ et WebView2 sont inclus.\n\n- catalogue et versions.\n- importation PNG/JPEG/GLB.\n- génération via moteurs locaux.\n- file d'attente avec annulation.\n- génération multiple.\n- correction des couleurs et de la géométrie avec aperçu.\n- exportation ZIP complète.\n- six langues.\n- vérification guidée des prérequis.\n- Rigging humanoïde MIA avec ComfyUI et des nœuds compatibles.\n- Export de la géométrie compatible en STL, OBJ et 3MF.\n- Téléchargement et installation guidés des modèles vérifiés disponibles."
+      },
+      "de": {
+        "short": "Vom Zeichen zur Form: Organisieren, generieren und bearbeiten Sie Ihre 3D-Assets auf dem PC.",
+        "full": "Officina 3D sammelt Zeichnungen und 3D-Modelle in einem Katalog mit Projekten, Beschreibungen und Versionen. Importieren Sie Bilder und GLB, verbinden Sie ComfyUI oder Modly und verwalten Sie die Generierungen über eine Arbeitswarteschlange. Wählen Sie kompatible Workflows und bewahren Sie die Herkunft der Versionen.\n\nKorrigieren Sie die Farben, indem Sie direkt einen Bereich des Modells mit dem Pipettenwerkzeug auswählen und die Ähnlichkeit anpassen. Wählen Sie mehrere Bereiche aus, fügen oder subtrahieren Sie Teile und überprüfen Sie die Vorschau, bevor Sie eine neue Version speichern. Die geometrischen Werkzeuge helfen bei der Bearbeitung von Löchern, Fragmenten und unerwünschten Teilen.\n\nWählen Sie mehrere Assets aus und fügen Sie sie mit gemeinsamen Parametern zur Warteschlange hinzu. Exportieren Sie alle Zeichnungen und Modelle des Projekts in einem einzigen ZIP-Archiv mit erkennbaren Namen. Die Benutzeroberfläche, Anleitung und Dokumentation sind auf Italienisch, Englisch, Spanisch, Französisch, Deutsch und vereinfachtes Chinesisch verfügbar.\n\nDie App erfordert kein eigenes Konto, enthält keine Werbung und sendet den Katalog nicht an den Hersteller. Die Inhalte werden lokal von der App und von den von Ihnen konfigurierten Engines verarbeitet. Eventuelle Erweiterungen der Engines unterliegen eigenen Bedingungen.\n\nWICHTIGE ANFORDERUNGEN: Windows 11 x64. Der Katalog, das lokale Importieren und die lokalen Korrekturen erfordern keinen KI-Engine. Für die Generierung müssen Sie ComfyUI oder Modly separat installieren und konfigurieren, zusammen mit kompatiblen Knoten, Workflows und Modellen; diese sind nicht enthalten. Überprüfen Sie die Anforderungen an GPU, Speicher und die Lizenzen der Modelle, bevor Sie herunterladen. Die anspruchsvollsten Modelle können etwa 32 GB RAM und 16 GB VRAM erfordern. Python, Visual C++ und WebView2 sind enthalten.\n\n- Katalog und Versionen.\n- Import von PNG/JPEG/GLB.\n- Generierung über lokale Engines.\n- Warteschlange mit Abbruch.\n- Mehrfachgenerierung.\n- Farb- und Geometriekorrektur mit Vorschau.\n- Vollständiger ZIP-Export.\n- Sechs Sprachen.\n- Geführte Überprüfung der Voraussetzungen.\n- MIA-Humanoid-Rigging mit ComfyUI und kompatiblen Knoten.\n- Export kompatibler Geometrie nach STL, OBJ und 3MF.\n- Geführter Download und Installation verfügbarer geprüfter Modelle."
+      },
+      "zh": {
+        "short": "从草图到形态：在 PC 上组织、生成和修饰您的 3D 素材。",
+        "full": "Officina 3D 在一个包含项目、描述和版本的目录中汇集了 3D 图纸和模型。导入图像和 GLB，连接 ComfyUI 或 Modly，并通过工作队列管理生成。选择兼容的工作流程并保留版本的来源。\n\n通过吸管工具直接选择模型区域并调整相似度来校正颜色。选择多个区域，添加或减去部分，并在保存新版本前检查预览。几何工具可用于处理孔洞、碎片和不需要的部分。\n\n选择多个素材并使用通用参数将它们添加到队列中。将项目中的所有图纸和模型导出到一个带有可识别名称的 ZIP 文件中。界面、指南和文档提供意大利语、英语、西班牙语、法语、德语和简体中文。\n\n本应用程序不需要用户账户，不包含广告，也不会将目录发送给制造商。内容由应用程序和您配置的引擎在本地处理。引擎的任何扩展都有其自身的条款。\n\n重要要求：Windows 11 x64。本地目录、导入和修正功能不要求人工智能引擎。如需生成，您必须单独安装和配置 ComfyUI 或 Modly、节点、工作流程和兼容的模型；这些不包含在内。在下载前，请检查 GPU、内存和模型许可要求。最复杂的模型可能需要约 32 GB 的 RAM 和 16 GB 的 VRAM。Python、Visual C++ 和 WebView2 已包含。\n\n- 目录和版本.\n- 导入 PNG/JPEG/GLB.\n- 通过本地引擎生成.\n- 带取消功能的队列.\n- 批量生成.\n- 带预览的颜色和几何修正.\n- 完整的 ZIP 导出.\n- 六种语言.\n- 引导式先决条件检查.\n- 通过 ComfyUI 和兼容节点进行 MIA 人形绑定.\n- 将兼容几何体导出为 STL、OBJ 和 3MF.\n- 引导下载和安装可用的已验证模型."
+      }
+    },
+    "images": {
+      "it": [
+        {
+          "src": "./assets/screens/Officina3D-it-01.png",
+          "label": "Catalogo e modello 3D"
+        },
+        {
+          "src": "./assets/screens/Officina3D-it-02.png",
+          "label": "Coda di lavoro"
+        },
+        {
+          "src": "./assets/screens/Officina3D-it-03.png",
+          "label": "Motori e connessioni"
+        },
+        {
+          "src": "./assets/screens/Officina3D-it-04.png",
+          "label": "Filtri e correzioni"
+        },
+        {
+          "src": "./assets/screens/Officina3D-it-05.png",
+          "label": "Correzione dei colori"
+        },
+        {
+          "src": "./assets/screens/Officina3D-it-06.png",
+          "label": "Guida e percorsi"
+        }
+      ],
+      "en": [
+        {
+          "src": "./assets/screens/Officina3D-en-01.png",
+          "label": "3D Catalog and Model"
+        },
+        {
+          "src": "./assets/screens/Officina3D-en-02.png",
+          "label": "Work Queue"
+        },
+        {
+          "src": "./assets/screens/Officina3D-en-03.png",
+          "label": "Engines and Connections"
+        },
+        {
+          "src": "./assets/screens/Officina3D-en-04.png",
+          "label": "Filters and corrections"
+        },
+        {
+          "src": "./assets/screens/Officina3D-en-05.png",
+          "label": "Color correction"
+        },
+        {
+          "src": "./assets/screens/Officina3D-en-06.png",
+          "label": "Guide and Paths"
+        }
+      ],
+      "es": [
+        {
+          "src": "./assets/screens/Officina3D-es-01.png",
+          "label": "Catálogo y modelo 3D"
+        },
+        {
+          "src": "./assets/screens/Officina3D-es-02.png",
+          "label": "Cola de trabajo"
+        },
+        {
+          "src": "./assets/screens/Officina3D-es-03.png",
+          "label": "Motores y conexiones"
+        },
+        {
+          "src": "./assets/screens/Officina3D-es-04.png",
+          "label": "Filtros y correcciones"
+        },
+        {
+          "src": "./assets/screens/Officina3D-es-05.png",
+          "label": "Corrección de colores"
+        },
+        {
+          "src": "./assets/screens/Officina3D-es-06.png",
+          "label": "Guía y rutas"
+        }
+      ],
+      "fr": [
+        {
+          "src": "./assets/screens/Officina3D-fr-01.png",
+          "label": "Catalogue et modèle 3D"
+        },
+        {
+          "src": "./assets/screens/Officina3D-fr-02.png",
+          "label": "File d'attente"
+        },
+        {
+          "src": "./assets/screens/Officina3D-fr-03.png",
+          "label": "Moteurs et connexions"
+        },
+        {
+          "src": "./assets/screens/Officina3D-fr-04.png",
+          "label": "Filtres et corrections"
+        },
+        {
+          "src": "./assets/screens/Officina3D-fr-05.png",
+          "label": "Correction des couleurs"
+        },
+        {
+          "src": "./assets/screens/Officina3D-fr-06.png",
+          "label": "Guide et chemins"
+        }
+      ],
+      "de": [
+        {
+          "src": "./assets/screens/Officina3D-de-01.png",
+          "label": "Katalog und 3D-Modell"
+        },
+        {
+          "src": "./assets/screens/Officina3D-de-02.png",
+          "label": "Warteschlange"
+        },
+        {
+          "src": "./assets/screens/Officina3D-de-03.png",
+          "label": "Engines und Verbindungen"
+        },
+        {
+          "src": "./assets/screens/Officina3D-de-04.png",
+          "label": "Filter und Korrekturen"
+        },
+        {
+          "src": "./assets/screens/Officina3D-de-05.png",
+          "label": "Farbkorrektur"
+        },
+        {
+          "src": "./assets/screens/Officina3D-de-06.png",
+          "label": "Anleitung und Pfade"
+        }
+      ],
+      "zh": [
+        {
+          "src": "./assets/screens/Officina3D-zh-01.png",
+          "label": "目录和 3D 模型"
+        },
+        {
+          "src": "./assets/screens/Officina3D-zh-02.png",
+          "label": "工作队列"
+        },
+        {
+          "src": "./assets/screens/Officina3D-zh-03.png",
+          "label": "引擎和连接"
+        },
+        {
+          "src": "./assets/screens/Officina3D-zh-04.png",
+          "label": "滤镜和修正"
+        },
+        {
+          "src": "./assets/screens/Officina3D-zh-05.png",
+          "label": "颜色校正"
+        },
+        {
+          "src": "./assets/screens/Officina3D-zh-06.png",
+          "label": "指南和路径"
+        }
+      ]
+    }
   }
 ]
